@@ -3,7 +3,8 @@ README
 Please cite the following paper (Rapid 3D Whole-Brain High-Resolution T1 Quantification: Accelerating Standard Inversion Recovery with Stack-of-Spirals Turbo FLASH Acquisition) when using the code and data:
 DOI: 10.1002/mrm.70112
 
-1. The data can be downloaded from the Onedrive link: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/zhu22_jh_edu/ElP09A7CE_FOnpytDY9YZIsB9SSuEnyYi1uBZ2SAPr3mUg?e=1g6411
+1. The data can be downloaded from the Onedrive link: 
+https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/zhu22_jh_edu/ElP09A7CE_FOnpytDY9YZIsB9SSuEnyYi1uBZ2SAPr3mUg?e=1g6411
 
 
 2. Example Fitting Code
